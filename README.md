@@ -1,4 +1,4 @@
-<h1>Hi, I'm Clearthur! <br/><a , <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://https://www.youtube.com/channel/UC0WVOIOYlPj87ApHv4aW7Zg">YouTuber</a></h1>
+<h1>Hi, I'm Clearthur! <br/><a , <a href="https://www.linkedin.com/in/clearthur-weaver-996358278">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC0WVOIOYlPj87ApHv4aW7Zg">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
