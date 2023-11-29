@@ -16,4 +16,4 @@
 -
 <h2> 🤳 Connect with me:</h2>
 
-- [Click here for my Linkedin](www.linkedin.com/in/clearthur-weaver-996358278)
+- [Click here for my Linkedin](https://www.linkedin.com/in/clearthur-weaver-996358278/)
