@@ -11,8 +11,8 @@
 <h2>📺 My Videos</h2>
 
 - [Importance of endpoint security](https://www.youtube.com/watch?v=edycb0rOAKQ)
-- [project2](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [project3](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [OpenVAS Vulnerability scan](https://www.youtube.com/watch?v=G9PMxxWa-2o)
+- [   ](https://www.youtube.com/watch?v=N-L9hklSlNk)
 -
 <h2> 🤳 Connect with me:</h2>
 
