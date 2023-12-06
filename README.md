@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Importance of endpoint security](https://github.com/Clearthur/AZURESIEM)
-  - [project 2](https://yourmom.com)
+  - [Vulnerability scan with openVAS](https://github.com/Clearthur/openVAS-Greenbone/blob/main/README.md)
   - [project3](https;//hhahahh.com)
   - [project4](https;//putyourworkhere.com)
 
