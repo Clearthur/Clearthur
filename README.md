@@ -12,8 +12,7 @@
 
 - [Importance of endpoint security](https://www.youtube.com/watch?v=edycb0rOAKQ)
 - [OpenVAS Vulnerability scan](https://www.youtube.com/watch?v=G9PMxxWa-2o)
-- [   ](https://www.youtube.com/watch?v=N-L9hklSlNk)
--
+
 <h2> 🤳 Connect with me:</h2>
 
 - [Click here for my Linkedin](https://www.linkedin.com/in/clearthur-weaver-996358278/)
