@@ -4,8 +4,8 @@
 
   - [Importance of endpoint security](https://github.com/Clearthur/AZURESIEM)
   - [Vulnerability scan with openVAS](https://github.com/Clearthur/openVAS-Greenbone/blob/main/README.md)
-  - [project3](https;//hhahahh.com)
-  - [project4](https;//putyourworkhere.com)
+  - [Analyze network traffic (Wireshark)](https://github.com/Clearthur/Wireshark)
+    
 
 
 <h2>📺 My Videos</h2>
